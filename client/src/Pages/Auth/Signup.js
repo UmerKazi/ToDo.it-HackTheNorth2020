@@ -21,7 +21,7 @@ function MadeWithLove() {
     <Typography variant="body2" color="textSecondary" align="center">
       {"Built with love by "}
       <a rel="noopener noreferrer" href="https://linkedin.com/in/mostafa3li/" target="_blank">
-        Mostafa Ali
+        George Holly-Greco, Umer Kazi, & Levi Shem-Tov
       </a>
     </Typography>
   );
