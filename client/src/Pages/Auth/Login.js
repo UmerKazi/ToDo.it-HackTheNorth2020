@@ -19,7 +19,7 @@ function MadeWithLove() {
     <Typography variant="body2" color="textSecondary" align="center">
       {"Built with love by "}
       <a rel="noopener noreferrer" href="https://github.com/UmerKazi/ToDo.it" target="_blank">
-        Umer Kazi & Levi Shem-Tov
+        George Holly-Greco, Umer Kazi, & Levi Shem-Tov
       </a>
     </Typography>
   );
